@@ -1,0 +1,13 @@
+*{
+    outline: none;
+    font-family: acumin-pro,sans-serif;
+    font-size: 105%;
+    font-style: normal;
+  }
+  .navbar-brand img{
+      width: 33%;
+  }
+
+  .navbar{
+      background-color: #cff7f2;
+  }
